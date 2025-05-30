@@ -1,6 +1,6 @@
 # Olá! Eu sou o Daniel Leite Vieira 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&vCenter=true&width=435&lines=Desenvolvedor+em+formação!;Apaixonado+por+tecnologia;Foco:+Full+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&vCenter=true&width=435&lines=Desenvolvedor+em+formação!;Fanatico+por+tecnologia;Foco:+FullStack+Desenvolvedor web!)](https://git.io/typing-svg)
 
 ---
 
@@ -20,16 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielvieiraZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielvieiraZ&layout=compact&theme=radical)
-
----
-
 ## 📫 Como me encontrar:
 
-- [LinkedIn](https://www.linkedin.com/) — (adicione seu link!)
-- 📧 Email: seu.email@exemplo.com (adicione!)
+- 📧 Email: danielvieiraserver@gmail.com
+- 📲 contato: 35 984053351
