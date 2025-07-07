@@ -1,4 +1,4 @@
-# Olá! Eu sou o Daniel Leite Vieira 
+# Olá! Eu sou o Daniel
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&vCenter=true&width=435&lines=Desenvolvedor+em+formação!;Fanatico+por+tecnologia;Foco:+FullStack+Developer!)](https://git.io/typing-svg)
 
